@@ -61,20 +61,6 @@ To run the demo follow these steps:
 6. Add some hardhat accounts, connect your wallet and interact with the app.
    <br/>
 
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
 
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/dappVote/issues). We're here to help ✌️
-Access the [Teaching Guide Here](https://docs.google.com/document/d/13bBRyAO0bEwRt776FXbYgWm6-OBFiUu6zTeOgRbXXyI/edit?usp=sharing).
 
-## Useful links
 
-- 🏠 [Website](https://dappmentors.org/)
-- ⚽ [Metamask](https://metamask.io/)
-- 🚀 [CometChat](https://try.cometchat.com/oj0s7hrm5v78)
-- 💡 [Hardhat](https://hardhat.org/)
-- 📈 [Infuria](https://infura.io/)
-- 🔥 [NextJs](https://nextjs.org/)
-- 🎅 [TypeScript](https://www.typescriptlang.org/)
-- 🐻 [Solidity](https://soliditylang.org/)
-- 👀 [EthersJs](https://docs.ethers.io/v5/)
-- ✨ [Live Demo](https://dapp-vote-three.vercel.app/)
